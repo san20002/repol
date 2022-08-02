@@ -1,0 +1,19 @@
+#Tue Jul 19 23:26:21 CDT 2022
+shaderPack=OFF
+antialiasingLevel=0
+normalMapEnabled=true
+specularMapEnabled=true
+renderResMul=1.1666666
+shadowResMul=1.1666666
+handDepthMul=0.125
+cloudShadow=false
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
