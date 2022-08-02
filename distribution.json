@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.20",
