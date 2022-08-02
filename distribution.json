@@ -922,17 +922,6 @@
           }
         },
         {
-          "id": "CustomNpcs.cfg",
-          "name": "CustomNpcs.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 1713,
-            "url": "https://raw.githubusercontent.com/san20002/repol/main/servers/majestycraft-1.16.5/files/config/CustomNpcs.cfg",
-            "MD5": "9d9821e72c159f1e9cc221740f792a3b",
-            "path": "config/CustomNpcs.cfg"
-          }
-        },
-        {
           "id": "alligator_snapping_turtle_spawns.json",
           "name": "alligator_snapping_turtle_spawns.json",
           "type": "File",
@@ -1527,39 +1516,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 6228,
-            "url": "https://raw.githubusercontent.com/san20002/repol/main/servers/majestycraft-1.16.5/files/options.txt",
-            "MD5": "eed8ac8b04c8575d3f92803fb3ec437f",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "optionsof.txt",
-          "name": "optionsof.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1414,
-            "url": "https://raw.githubusercontent.com/san20002/repol/main/servers/majestycraft-1.16.5/files/optionsof.txt",
-            "MD5": "b262012fbabc8a2811c9a2ddb8248bee",
-            "path": "optionsof.txt"
-          }
-        },
-        {
-          "id": "optionsshaders.txt",
-          "name": "optionsshaders.txt",
-          "type": "File",
-          "artifact": {
-            "size": 379,
-            "url": "https://raw.githubusercontent.com/san20002/repol/main/servers/majestycraft-1.16.5/files/optionsshaders.txt",
-            "MD5": "a890d2ccbdcb7932a992d18e16e14215",
-            "path": "optionsshaders.txt"
-          }
-        },
-        {
           "id": "CRRP-1.16.5-5.0.8.zip",
           "name": "CRRP-1.16.5-5.0.8.zip",
           "type": "File",
@@ -1579,17 +1535,6 @@
             "url": "https://raw.githubusercontent.com/san20002/repol/main/servers/majestycraft-1.16.5/files/shaderpacks/ComplementaryShaders_v4.5.zip",
             "MD5": "049a937d7e7f82ace2be1c15282b775a",
             "path": "shaderpacks/ComplementaryShaders_v4.5.zip"
-          }
-        },
-        {
-          "id": "ComplementaryShaders_v4.5.zip.txt",
-          "name": "ComplementaryShaders_v4.5.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 481,
-            "url": "https://raw.githubusercontent.com/san20002/repol/main/servers/majestycraft-1.16.5/files/shaderpacks/ComplementaryShaders_v4.5.zip.txt",
-            "MD5": "3e33f89d8f5a174d22b453ccdce9a045",
-            "path": "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
           }
         }
       ]
